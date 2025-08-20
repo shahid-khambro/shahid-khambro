@@ -76,7 +76,7 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 </div>
 
 ## Projects
--  <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1 30-Day MyDFIR Microsoft Challenge</a>
+-  <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1 30- day mydfir microsoft challenge</a>
 - Mini Project #2 30-Day MyDFIR Microsoft Challenge
 - Mini Project #3 30-Day MyDFIR Microsoft Challenge
 - Mini Project #4 30-Day MyDFIR Microsoft Challenge
