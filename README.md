@@ -22,10 +22,9 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Mini Project #1 30-Day MyDFIR Microsoft Challenge | <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1</a>|
+| Mini Project #1 Microsoft Sentinel | <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1</a>|
 | Mini Project #2 Simulate phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2</a>|
-| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
-| Mini Project #2  identitying phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2</a>|
+| Mini Project #2 Investigating phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4</a>|
 | SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
