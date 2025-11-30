@@ -25,12 +25,8 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 | Mini Project #1 Microsoft Sentinel | <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1</a>|
 | Mini Project #2 Simulate phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2</a>|
 | Mini Project #2 Investigating phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4</a>|
-| Project 2: Basic Home lab                     | <a hrref="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Project 2: Basic Home lab                     | <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a>|
+
 
 ## Tools
 
@@ -81,4 +77,4 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 -  <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1 30- day mydfir microsoft challenge</a>
 -  <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2 30- day mydfir microsoft challenge</a>
 -  <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4 30- day mydfir microsoft challenge</a>|
--  <a hrref="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a> Basic Home lab </a> 
+-  <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a>| Basic Home lab </a> 
