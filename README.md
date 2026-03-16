@@ -1,6 +1,7 @@
 # Hello, I'm Shahid Ali Khambro
 <a href="https://www.linkedin.com/in/shahidalikhambro/" target="_blank">
 
+
 I am a Computer Systems Engineering graduate who has transitioned into cybersecurity, focusing on Security Operations Center (SOC) analysis, threat detection, and incident response.
 
 I hold the Google Cybersecurity Professional Certificate and the EC-Council Certified SOC Analyst (CSA) certification. Through hands-on training platforms such as TryHackMe and LetsDefend, I have gained practical experience working in simulated SOC environments, performing log analysis, phishing investigations, and threat detection using SIEM and endpoint security tools.
@@ -10,21 +11,21 @@ I am passionate about identifying malicious activity, investigating security ale
 
 ## Core Competencies
 
-Security Operations (SOC)
+**Security Operations (SOC)**
 • Monitoring and analyzing security alerts using SIEM and EDR platforms
 • Investigating suspicious activity and escalating confirmed incidents
 • Log analysis and correlation across multiple security tools
 
-Microsoft Security Ecosystem
+**Microsoft Security Ecosystem**
 • Experience configuring Microsoft Sentinel for centralized log monitoring
 • Using Microsoft Defender for Endpoint and Microsoft 365 Defender for endpoint and email security
 
-Threat Intelligence & Digital Forensics
+**Threat Intelligence & Digital Forensics**
 • Phishing email investigation and header analysis
 • Malicious document analysis (PDF forensics)
 • Understanding attacker tactics, techniques, and procedures (TTPs)
 
-SIEM Implementation
+**SIEM Implementation**
 • Onboarding log sources into SIEM platforms
 • Creating detection rules and security dashboards
 • Performing log correlation and threat detection
