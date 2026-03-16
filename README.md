@@ -33,7 +33,7 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 
 ### Network
 <div>
-    <img src="/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
@@ -77,6 +77,6 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 ## Projects
 -  <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1 30- day mydfir microsoft challenge</a>
 -  <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2 30- day mydfir microsoft challenge</a>
--  <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4 30- day mydfir microsoft challenge</a>|
--  <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">| Basic Home lab </a>
-- <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main"> https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab/tree/main"> Active Driectory Attack detection project</a>
+-  <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4 30- day mydfir microsoft challenge</a>
+-  <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main"> Basic Home lab </a>
+ - <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab">Active directory project detection lab </a>
