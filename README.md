@@ -1,22 +1,36 @@
 # Hello, I'm Shahid Ali Khambro
 <a href="https://www.linkedin.com/in/shahidalikhambro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a Computer Systems Engineering graduate who has transitioned into cybersecurity, focusing on Security Operations Center (SOC) analysis, threat detection, and incident response.
 
-I am a Computer Systems Engineer who has transitioned into a dedicated cybersecurity professional, armed with a Google Cybersecurity certificate and SOC Analyst certification.
+I hold the Google Cybersecurity Professional Certificate and the EC-Council Certified SOC Analyst (CSA) certification. Through hands-on training platforms such as TryHackMe and LetsDefend, I have gained practical experience working in simulated SOC environments, performing log analysis, phishing investigations, and threat detection using SIEM and endpoint security tools.
 
-My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has provided me with practical, hands-on experience in a simulated Security Operations Center environment. I am focused on building a career in detecting, analyzing, and responding to cyber threats.
+I am passionate about identifying malicious activity, investigating security alerts, and helping organizations strengthen their security posture. My goal is to begin my career as a Tier 1 SOC Analyst and contribute to detecting and responding to cyber threats.
 
-**Core Competencies:**
 
-*   **Security Operations (SOC):** Proficient in monitoring, investigating, and escalating security incidents using modern EDR and SIEM tools.
-*   **Microsoft Security Ecosystem:** Implemented and configured Microsoft Sentinel for centralized visibility, and used Microsoft Defender for Endpoint and Office 365 for endpoint and email security.
-*   **Threat Intelligence & Forensics:** Expert in conducting in-depth analyses of phishing campaigns, malicious documents (PDF Forensics), and malware to understand attacker TTPs.
-*   **SIEM Implementation:** Experience in onboarding log sources, creating detection rules, and developing dashboards for effective log analysis and correlation.
+## Core Competencies
 
-## Objective
+Security Operations (SOC)
+• Monitoring and analyzing security alerts using SIEM and EDR platforms
+• Investigating suspicious activity and escalating confirmed incidents
+• Log analysis and correlation across multiple security tools
 
- am a Computer Systems Engineering graduate with a focused passion for cybersecurity, certified by Google and as a SOC Analyst. Through practical training paths on TryHackMe and LetsDefend, I have developed hands-on skills in SIEM implementation, phishing analysis, and endpoint security. I am now actively seeking to launch my professional career as a Tier 1 SOC Analyst, where I can apply my analytical mindset and technical skills to monitor, investigate, and mitigate security threats effectively.
+Microsoft Security Ecosystem
+• Experience configuring Microsoft Sentinel for centralized log monitoring
+• Using Microsoft Defender for Endpoint and Microsoft 365 Defender for endpoint and email security
 
+Threat Intelligence & Digital Forensics
+• Phishing email investigation and header analysis
+• Malicious document analysis (PDF forensics)
+• Understanding attacker tactics, techniques, and procedures (TTPs)
+
+SIEM Implementation
+• Onboarding log sources into SIEM platforms
+• Creating detection rules and security dashboards
+• Performing log correlation and threat detection
+
+## Career Objective
+Computer Systems Engineering graduate with certifications in cybersecurity and SOC analysis. Experienced in SIEM monitoring, phishing investigation, and endpoint security through hands-on labs and security training platforms. Seeking a Tier 1 SOC Analyst position where I can apply my analytical and technical skills to detect, investigate, and respond to cyber threats.
 
 
 ## Certifications & Training
@@ -98,7 +112,7 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 </div>
 
 
-## Proejct list
+## Proeject list
 
 
 | Skill                                         | Associated Project         |
