@@ -19,19 +19,17 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 
 ## Certifications & Training
 
-<div>
-<img src="https://img.shields.io/badge/-Microsoft%20SC--200%20(Security%20Operations%20Analyst)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/-EC--Council%20CSA-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20(SY0--701)-E60012?style=for-the-badge&logo=comptia&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</div>
+## Certifications & Training
 
-<div>
-<img src="https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SOC%20Analyst%20Path%20(LetsDefend)-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-SOC%20101%20(TCM%20Security)-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201%20(Course)-0057B7?style=for-the-badge"/>
-</div>
+![Microsoft SC-200](https://img.shields.io/badge/-Microsoft%20SC--200%20(Security%20Operations%20Analyst)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![EC-Council CSA](https://img.shields.io/badge/-EC--Council%20CSA-CC0000?style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B%20(SY0--701)-E60012?style=for-the-badge)
+![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![SOC Level 1](https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-212C42?style=for-the-badge)
+![LetsDefend SOC Path](https://img.shields.io/badge/-SOC%20Analyst%20Path%20(LetsDefend)-1E90FF?style=for-the-badge)
+![SOC 101](https://img.shields.io/badge/-SOC%20101%20(TCM%20Security)-000000?style=for-the-badge)
+![Blue Team Level 1](https://img.shields.io/badge/-Blue%20Team%20Level%201%20(Course)-0057B7?style=for-the-badge)
 
 
 ## Skills
