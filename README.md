@@ -77,4 +77,5 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 -  <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1 30- day mydfir microsoft challenge</a>
 -  <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2 30- day mydfir microsoft challenge</a>
 -  <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4 30- day mydfir microsoft challenge</a>|
--  <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a>| Basic Home lab </a> 
+-  <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">| Basic Home lab </a>
+- <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main"> https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab/tree/main"> Active Driectory Attack detection project</a>
