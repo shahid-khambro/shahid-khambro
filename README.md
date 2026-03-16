@@ -42,18 +42,33 @@ Computer Systems Engineering graduate with certifications in cybersecurity and S
 ## Certifications & Training
 
 <div>
-<img src="https://img.shields.io/badge/-Microsoft%20SC--200%20(Security%20Operations%20Analyst)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/-EC--Council%20CSA-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20(SY0--701)-E60012?style=for-the-badge&logo=comptia&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-SC--200%20Security%20Operations%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC--Council-CSA%20SOC%20Analyst-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-E60012?style=for-the-badge&logo=comptia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SOC%20Analyst%20Path%20(LetsDefend)-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-SOC%20101%20(TCM%20Security)-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201%20(Course)-0057B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Path-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCM%20Security-SOC%20101-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue%20Team-Level%201%20Study-0057B7?style=for-the-badge"/>
 </div>
+
+### Details
+
+• **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — Expected 2026  
+• **EC-Council Certified SOC Analyst (CSA)** — 2024  
+• **CompTIA Security+ (SY0-701)** — Attempted 2024 (Score: 722/900, Passing: 750)  
+• **Google Cybersecurity Professional Certificate** — Linux security, SQL, Python basics, network security monitoring  
+
+• **SOC Level 1 – TryHackMe** — SIEM investigations, threat detection, log analysis  
+• **SOC Analyst Path – LetsDefend** — Phishing investigation, malware analysis, alert triage  
+• **SOC 101 – TCM Security** — SIEM operations, threat hunting, detection engineering  
+• **Blue Team Level 1 (Course Study)** — Network monitoring, log analysis, digital forensics fundamentals
+
+
+
 
 ## Technical Skills
 
