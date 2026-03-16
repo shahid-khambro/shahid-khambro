@@ -1,5 +1,10 @@
 # Hello, I'm Shahid Ali Khambro
+
+SOC Analyst | SIEM | Threat Detection | Incident Response
+
 <a href="https://www.linkedin.com/in/shahidalikhambro/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
 I am a Computer Systems Engineering graduate who has transitioned into cybersecurity, focusing on Security Operations Center (SOC) analysis, threat detection, and incident response.
