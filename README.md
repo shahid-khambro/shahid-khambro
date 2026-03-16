@@ -16,21 +16,21 @@ I am passionate about identifying malicious activity, investigating security ale
 
 ## Core Competencies
 
-**Security Operations (SOC)**
+**Security Operations (SOC)** \
 • Monitoring and analyzing security alerts using SIEM and EDR platforms
 • Investigating suspicious activity and escalating confirmed incidents
 • Log analysis and correlation across multiple security tools
 
-**Microsoft Security Ecosystem**
+**Microsoft Security Ecosystem** \
 • Experience configuring Microsoft Sentinel for centralized log monitoring
 • Using Microsoft Defender for Endpoint and Microsoft 365 Defender for endpoint and email security
 
-**Threat Intelligence & Digital Forensics**
+**Threat Intelligence & Digital Forensics** \ 
 • Phishing email investigation and header analysis
 • Malicious document analysis (PDF forensics)
 • Understanding attacker tactics, techniques, and procedures (TTPs)
 
-**SIEM Implementation**
+**SIEM Implementation** \ 
 • Onboarding log sources into SIEM platforms
 • Creating detection rules and security dashboards
 • Performing log correlation and threat detection
