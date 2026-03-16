@@ -17,22 +17,88 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 
  am a Computer Systems Engineering graduate with a focused passion for cybersecurity, certified by Google and as a SOC Analyst. Through practical training paths on TryHackMe and LetsDefend, I have developed hands-on skills in SIEM implementation, phishing analysis, and endpoint security. I am now actively seeking to launch my professional career as a Tier 1 SOC Analyst, where I can apply my analytical mindset and technical skills to monitor, investigate, and mitigate security threats effectively.
 
+
+
 ## Certifications & Training
 
-## Certifications & Training
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20SC--200%20(Security%20Operations%20Analyst)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-EC--Council%20CSA-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20(SY0--701)-E60012?style=for-the-badge&logo=comptia&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</div>
 
-![Microsoft SC-200](https://img.shields.io/badge/-Microsoft%20SC--200%20(Security%20Operations%20Analyst)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![EC-Council CSA](https://img.shields.io/badge/-EC--Council%20CSA-CC0000?style=for-the-badge)
-![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B%20(SY0--701)-E60012?style=for-the-badge)
-![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<div>
+<img src="https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SOC%20Analyst%20Path%20(LetsDefend)-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-SOC%20101%20(TCM%20Security)-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201%20(Course)-0057B7?style=for-the-badge"/>
+</div>
 
-![SOC Level 1](https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-212C42?style=for-the-badge)
-![LetsDefend SOC Path](https://img.shields.io/badge/-SOC%20Analyst%20Path%20(LetsDefend)-1E90FF?style=for-the-badge)
-![SOC 101](https://img.shields.io/badge/-SOC%20101%20(TCM%20Security)-000000?style=for-the-badge)
-![Blue Team Level 1](https://img.shields.io/badge/-Blue%20Team%20Level%201%20(Course)-0057B7?style=for-the-badge)
+## Technical Skills
+
+### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Wazuh-0267C1?style=for-the-badge"/>
+</div>
+
+### Endpoint Security
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</div>
+
+### Cloud Security
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Cloud-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</div>
+
+### Network Analysis
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-tcpdump-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-TShark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge"/>
+</div>
+
+### Threat Intelligence
+<div>
+<img src="https://img.shields.io/badge/-MISP-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-8A2BE2?style=for-the-badge"/>
+</div>
+
+### Incident Response
+<div>
+<img src="https://img.shields.io/badge/-Phishing%20Analysis-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Threat%20Hunting-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Malware%20Investigation-8B0000?style=for-the-badge"/>
+</div>
+
+### SOAR
+<div>
+<img src="https://img.shields.io/badge/-Shuffle-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Tines-1E90FF?style=for-the-badge"/>
+</div>
+
+### Systems
+<div>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge"/>
+</div>
+
+### Query Languages
+<div>
+<img src="https://img.shields.io/badge/-KQL-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Splunk%20SPL-000000?style=for-the-badge"/>
+</div>
 
 
-## Skills
+## Proejct list
 
 
 | Skill                                         | Associated Project         |
@@ -43,55 +109,3 @@ My training through the TryHackMe SOC Level 1 and LetsDefend.io platforms has pr
 | Project 2: Basic Home lab                     | <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a>|
 | Project 3: Active Directory Attack Detection Lab |   <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab">Active directory project</a>|   
 
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Digital forensics
-<div>
-    <img src="https://img.shields.io/badge/-Digital%20Forensics-2E8B57?&style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/-PDF%20Forensics%20Expert-B22222?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-<img src="https://img.shields.io/badge/-Phishing%20Email%20Analysis%20Expert-FF8C00?&style=for-the-badge&logo=maildotru&logoColor=white" />
-</div>
-
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-EC--Council%20CSA-AA0000?&style=for-the-badge&logo=ElasticStack&logoColor=white" />
-</div>
-
-## Training and Courses list
-
-<div>
-<img src="https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOC%20Analyst%20Path%20(LetsDefend)-1E90FF?&style=for-the-badge&logo=Shield&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOC%20101%20(TCM%20Security)-000000?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
-<img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0057B7?&style=for-the-badge&logo=ShieldSecurity&logoColor=white" />
-</div>
-
-## Projects
--  <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1 30- day mydfir microsoft challenge</a>
--  <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2 30- day mydfir microsoft challenge</a>
--  <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4 30- day mydfir microsoft challenge</a>
--  <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main"> Basic Home lab </a>
- - <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab">Active directory project detection lab </a>
