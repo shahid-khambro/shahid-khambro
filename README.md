@@ -1,5 +1,5 @@
 # Hello, I'm Shahid Ali Khambro
-<a href="https://www.linkedin.com/in/shahidalikhambro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shahidalikhambro/" target="_blank">
 
 I am a Computer Systems Engineering graduate who has transitioned into cybersecurity, focusing on Security Operations Center (SOC) analysis, threat detection, and incident response.
 
@@ -111,15 +111,27 @@ Computer Systems Engineering graduate with certifications in cybersecurity and S
 <img src="https://img.shields.io/badge/-Splunk%20SPL-000000?style=for-the-badge"/>
 </div>
 
+## Threat Detection Skills
 
-## Proeject list
+• Brute force attack detection  
+• PowerShell attack monitoring  
+• Phishing email investigation  
+• SIEM log correlation  
+• Endpoint telemetry analysis using Sysmon  
+• MITRE ATT&CK technique mapping  
+
+# Security Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| Microsoft Sentinel SOC Lab | Built a SIEM monitoring lab using Microsoft Sentinel to ingest logs, create alerts, and investigate security events. | <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">View Project</a> |
+| Phishing Email Simulation | Simulated phishing email campaigns to understand attacker techniques and detection methods. | <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">View Project</a> |
+| Phishing Email Investigation | Investigated phishing emails using header analysis, malicious link detection, and threat intelligence. | <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">View Project</a> |
+| Cybersecurity Home Lab | Built a personal lab environment to practice monitoring, detection, and incident investigation. | <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">View Project</a> |
+| Active Directory Attack Detection Lab | Simulated attacks against an Active Directory environment and detected them using Splunk, Sysmon, and Atomic Red Team. | <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab">View Project</a> |
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Mini Project #1 Microsoft Sentinel | <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #1</a>|
-| Mini Project #2 Simulate phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #2</a>|
-| Mini Project #2 Investigating phishing emails | <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">Mini Project #4</a>|
-| Project 2: Basic Home lab                     | <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">Basic Home Lab</a>|
-| Project 3: Active Directory Attack Detection Lab |   <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab">Active directory project</a>|   
 
+## GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahid-khambro&show_icons=true&theme=default)
