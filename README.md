@@ -16,24 +16,24 @@ I am passionate about identifying malicious activity, investigating security ale
 
 ## Core Competencies
 
-**Security Operations (SOC)** \
-• Monitoring and analyzing security alerts using SIEM and EDR platforms
-• Investigating suspicious activity and escalating confirmed incidents
-• Log analysis and correlation across multiple security tools
+**Security Operations (SOC)** 
+- Monitoring and analyzing security alerts using SIEM and EDR platforms
+- Investigating suspicious activity and escalating confirmed incidents
+- Log analysis and correlation across multiple security tools
 
-**Microsoft Security Ecosystem** \
-• Experience configuring Microsoft Sentinel for centralized log monitoring
-• Using Microsoft Defender for Endpoint and Microsoft 365 Defender for endpoint and email security
+**Microsoft Security Ecosystem** 
+- Experience configuring Microsoft Sentinel for centralized log monitoring
+- Using Microsoft Defender for Endpoint and Microsoft 365 Defender for endpoint and email security
 
-**Threat Intelligence & Digital Forensics** \ 
-• Phishing email investigation and header analysis
-• Malicious document analysis (PDF forensics)
-• Understanding attacker tactics, techniques, and procedures (TTPs)
+**Threat Intelligence & Digital Forensics** 
+- Phishing email investigation and header analysis
+- Malicious document analysis (PDF forensics)
+- nderstanding attacker tactics, techniques, and procedures (TTPs)
 
-**SIEM Implementation** \ 
-• Onboarding log sources into SIEM platforms
-• Creating detection rules and security dashboards
-• Performing log correlation and threat detection
+**SIEM Implementation** 
+- Onboarding log sources into SIEM platforms
+- Creating detection rules and security dashboards
+- Performing log correlation and threat detection
 
 ## Career Objective
 Computer Systems Engineering graduate with certifications in cybersecurity and SOC analysis. Experienced in SIEM monitoring, phishing investigation, and endpoint security through hands-on labs and security training platforms. Seeking a Tier 1 SOC Analyst position where I can apply my analytical and technical skills to detect, investigate, and respond to cyber threats.
