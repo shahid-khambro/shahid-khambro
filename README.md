@@ -57,7 +57,7 @@ Computer Systems Engineering graduate with certifications in cybersecurity and S
 
 ### Details
 
-• **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — Expected 2026  
+• **Microsoft Certified: Security Operations Analyst Associate (SC-200)** -- 2026
 • **EC-Council Certified SOC Analyst (CSA)** — 2024  
 • **CompTIA Security+ (SY0-701)** — Attempted 2024 (Score: 722/900, Passing: 750)  
 • **Google Cybersecurity Professional Certificate** — Linux security, SQL, Python basics, network security monitoring  
