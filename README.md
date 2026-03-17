@@ -152,6 +152,6 @@ Computer Systems Engineering graduate with certifications in cybersecurity and S
 | Cybersecurity Home Lab | Built a personal lab environment to practice monitoring, detection, and incident investigation. | <a href="https://github.com/shahid-khambro/Basic-Home-Lab/tree/main">View Project</a> |
 | Active Directory Attack Detection Lab | Simulated attacks against an Active Directory environment and detected them using Splunk, Sysmon, and Atomic Red Team. | <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-Lab">View Project</a> |
 | Active-Directory-Attack-Detection-SOAR-Automation-Lab |"Simulates SOC detection and automated response in an Active Directory environment using Splunk, Slack, and Shuffle SOAR." | <a href="https://github.com/shahid-khambro/Active-Directory-Attack-Detection-SOAR-Automation-Lab">View Project</a> |
-| Automation-Playbook-using-LimaCharlie-Tines-Slack | Built an automated SOAR-EDR playbook integrating LimaCharlie, Tines, Slack, and email to detect malicious activity, alert SOC analysts | <a href=" https://github.com/shahid-khambro/SOAR-EDR-Automation-Playbook-using-LimaCharlie-Tines-Slack/tree/main">View Project</a> |
+| Automation-Playbook-using-LimaCharlie-Tines-Slack | Built an automated SOAR-EDR playbook integrating LimaCharlie, Tines, Slack, and email to detect malicious activity, alert SOC analysts | <a href="https://github.com/shahid-khambro/SOAR-EDR-Automation-Playbook-using-LimaCharlie-Tines-Slack/tree/main">View Project</a> |
 
 
