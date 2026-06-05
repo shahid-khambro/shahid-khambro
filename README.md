@@ -156,7 +156,7 @@ Computer Systems Engineering graduate with certifications in cybersecurity and S
 
 
 
-# Case STudy --> Email forensics projects At Fiverr
+# Case Study --> Email forensics projects At Fiverr
 
 | Project | Description | Link |
 |--------|-------------|------|
