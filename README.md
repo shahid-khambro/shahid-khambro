@@ -160,7 +160,7 @@ Computer Systems Engineering graduate with certifications in cybersecurity and S
 
 | Project | Description | Link |
 |--------|-------------|------|
-| Microsoft Sentinel SOC Lab | Built a SIEM monitoring lab using Microsoft Sentinel to ingest logs, create alerts, and investigate security events. | <a href="https://github.com/shahid-khambro/Mini-Project-1-30-Day-MyDFIR-Microsoft-Challenge/tree/main">View Project</a> |
+| Email Forensics  | Email Forensics & Threat Intelligence Investigation | <a href="https://github.com/shahid-khambro/Email-Forensics-Threat-Intelligence-Investigation/tree/main">View Project</a> |
 | Phishing Email Simulation | Simulated phishing email campaigns to understand attacker techniques and detection methods. | <a href="https://github.com/shahid-khambro/Mini-Project-2-30-Day-MyDFIR-Microsoft-Challenge/tree/main">View Project</a> |
 | Phishing Email Investigation | Investigated phishing emails using header analysis, malicious link detection, and threat intelligence. | <a href="https://github.com/shahid-khambro/Mini-Project-4-30-Day-MyDFIR-Microsoft-Challenge/tree/main">View Project</a> |
 | phishing analysis --> investigation report analysis |"nvestigated a phishing campaign delivering malware, analyzing email headers, attachments, and threat indicators to uncover attack patterns and mitigations. | <a href="https://github.com/shahid-khambro/Phishing-analysis---Investigation-Report-/tree/main">View Project</a> |
